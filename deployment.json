@@ -1,0 +1,10 @@
+{
+  "name": "DeadlineRelay",
+  "address": "0xd31de640F833B1232b070EB501Eb5f7b12C1E8bA",
+  "deployment_transaction": "0x01c9568f46cc4c2cdb113af15b178953eba542341925adda91bbb1a62bc4a206",
+  "live_register_transaction": "0xaeadb6f352fb490777098cb65561377954a7ebe37a705206cfb5c24d3b7d130b",
+  "live_resolve_transaction": "0x4c5e9c0a6941a6574c18b544d08cb6ae2c3aa35b61aa2c6afa4f7dc57edd1278",
+  "network": "studionet",
+  "source_sha256": "e4fe8e84ffadbdaf2de6e1eefb84ea1ed1ed1d45cdee358f91dd26fd90f56ea7",
+  "source_verified": true
+}
